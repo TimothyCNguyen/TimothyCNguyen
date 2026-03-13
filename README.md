@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TimothyCNguyen
 - 👀 I’m interested in programming and playing games.
-- 🌱 I’m currently learning about Object Oriented Programming and more about Data Structures and Algorithm.
+- 🌱 I obtained my Bachelor Degree in Computer Science in Spring 2025.
 - 💞️ I’m looking to collaborate on future projects.
 - 📫 How to reach me? Through LinkedIn. www.linkedin.com/in/timothy-nguyen-7a046724b
 
